@@ -2,7 +2,7 @@
   --container-gap: 64px;
 
   display: grid;
-  width: min(calc(80%, -2rem), 80ch);
+  width: min(calc(100% - 2rem), 100ch);
   margin-inline: auto;
 }
 
